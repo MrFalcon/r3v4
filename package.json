@@ -21,6 +21,7 @@
     "ffmpeg-static": "^5.1.0",
     "quick.db": "^9.0.8",
     "ytdl-core-discord": "^1.0.3",
-    "youtube-sr": "^4.3.4"
+    "youtube-sr": "^4.3.4",
+    "soundcloud-scraper": "^5.0.3"
   }
 }
