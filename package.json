@@ -23,8 +23,6 @@
     "ytdl-core-discord": "^1.0.3",
     "youtube-sr": "^4.3.4",
     "soundcloud-scraper": "^5.0.3",
-    "spotify-url-info": "^3.2.3",
-    "node-opus": "^0.3.3",
-    "opusscript": "0.0.8"
+    "spotify-url-info": "^3.2.3"
   }
 }
