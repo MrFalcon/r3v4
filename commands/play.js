@@ -33,6 +33,9 @@ module.exports = {
         // Cria uma fila própria pro server
 		const queue = await client.player.createQueue(interaction.guild);
 
+        queue.options.leaveOnEndCooldown = 120000;
+        queue.options.leaveOnEmptyCooldown = 20000;
+
         // Espera até que conecte ao canal
 		if (!queue.connection) await queue.connect(interaction.member.voice.channel)
 

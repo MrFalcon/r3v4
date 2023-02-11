@@ -20,9 +20,9 @@
     "dotenv": "^16.0.3",
     "ffmpeg-static": "^5.1.0",
     "quick.db": "^9.0.8",
-    "ytdl-core-discord": "^1.0.3",
-    "youtube-sr": "^4.3.4",
     "soundcloud-scraper": "^5.0.3",
-    "spotify-url-info": "^3.2.3"
+    "spotify-url-info": "^3.2.3",
+    "youtube-sr": "^4.3.4",
+    "ytdl-core-discord": "^1.0.3"
   }
 }
